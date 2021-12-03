@@ -129,7 +129,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*moved all of the benefits css below the main body css since it comes later in the index*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
