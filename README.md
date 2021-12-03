@@ -31,4 +31,5 @@
    <p> The only changes that needed to be made to css was reorganization of the styling code so that all of the content in the main tag would be in the same place and the sidebar to have its own seperate styling area lower on the style sheet.
    <p>
 
- <h2> Deployable Link>
+ <h2> Deployable Link<h2>
+<a href="https://chris-mcleod2.github.io/challenge-week1/">
