@@ -1,7 +1,7 @@
 
 <h1>Horiseon Code Refactor<h1>
 <h2> Description <h2>
-  <p> I was hired to refactor the code for the Horiseon webpage so that it would better follow semantic guidelines and be more user friendly <p>
+  <p> I was hired to refactor the code for the Horiseon webpage so that it would better follow semantic guidelines and accessibility <p>
  <h2> Header Before (left) and After (Right)
   <p float="left">
     <img src="https://user-images.githubusercontent.com/91762149/144648190-6e2a9f90-61ea-47f2-b2ad-37f1e86d86c2.png"  width="420px">
@@ -27,4 +27,8 @@
 
 
       
- <h2> CSS Before (left) and After (right)
+ <h2 Changes to css>
+   <p> The only changes that needed to be made to css was reorganization of the styling code so that all of the content in the main tag would be in the same place and the sidebar to have its own seperate styling area lower on the style sheet.
+   <p>
+
+ <h2> Deployable Link>
