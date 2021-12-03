@@ -32,3 +32,5 @@
    <p>
 
  <h2> Deployable Link>
+   https://chris-mcleod2.github.io/challenge-week1/
+https://chris-mcleod2.github.io/challenge-week1/
