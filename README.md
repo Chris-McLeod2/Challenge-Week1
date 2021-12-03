@@ -1,8 +1,7 @@
 
 <h1>Horiseon Code Refactor<h1>
-
-<h4>Deployable link -(add later)<h4>
-  
+<h2> Description <h2>
+  <p> I was hired to refactor the code for the Horiseon webpage so that it would better follow semantic guidelines and be more user friendly <p>
  <h2> Header Before (left) and After (Right)
   <p float="left">
     <img src="https://user-images.githubusercontent.com/91762149/144648190-6e2a9f90-61ea-47f2-b2ad-37f1e86d86c2.png"  width="420px">
